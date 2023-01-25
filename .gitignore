@@ -65,3 +65,6 @@ extras/Projucer/JUCECompileEngine.dylib
 /build
 
 CMakeUserPresets.json
+**/Builds
+**/JUCElibraryCode
+**/.DS_Store
